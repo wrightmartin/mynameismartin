@@ -1,0 +1,14 @@
+---
+layout: page
+title: "A list of work"
+permalink: "/work/"
+---
+
+<ul>
+  {% for work in site.work %}
+    <li>
+      <a href="{{ work.url }}">{{ work.title }}</a>
+      - {{ work.headline }}
+    </li>
+  {% endfor %}
+</ul>

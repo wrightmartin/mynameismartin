@@ -1,0 +1,28 @@
+---
+layout: default
+bodyclass: home
+---
+      <h1>Hello, my name is Martin</h1>
+      <i>—</i>
+      <p>I make cool stuff for nice people</p>
+
+
+  <h2><a href="work/">Latest work</a></h2>
+    <ul >
+      {% for work in site.work limit:2 %}
+    <li>
+      <h3><a href="{{ work.permalink }}" title="Permalink to {{ work.title }}" rel="bookmark">{{ work.title }}</a></h3>
+      <p>{{ work.excerpt }}</p>
+    </li>
+    {% endfor %}
+    </ul>
+  </div>
+    <h2><a href="blog/">Recent posts</a></h2>
+    <ol>
+    {% for post in site.posts limit:2 %}
+    <li>
+      <h3><a href="{{ post.permalink }}" title="Permalink to {{ post.title }}" rel="bookmark">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt }}</p>
+    </li>
+    {% endfor %}
+    </ol>
