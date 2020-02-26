@@ -22,7 +22,7 @@ tags:
 [How to steal like an artist (and 9 other things nobody told me)](http://www.austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/)
 
 <p style="text-align: center;">
-  <a href="http://www.austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/"><img class="size-full wp-image-357 alignnone" title="5580292092_c7d85f8818_o" alt="" src="http://mynameismartin.com/blog/wp-content/uploads/2011/04/5580292092_c7d85f8818_o.gif" width="500" height="375" /></a>
+  <a href="http://www.austinkleon.com/2011/03/30/how-to-steal-like-an-artist-and-9-other-things-nobody-told-me/"><img class="size-full wp-image-357 alignnone" title="5580292092_c7d85f8818_o" alt="" src="/assets/img/blog-post-images/2011/04/5580292092_c7d85f8818_o.gif" width="500" height="375" /></a>
 </p>
 
 <p style="text-align: left;">

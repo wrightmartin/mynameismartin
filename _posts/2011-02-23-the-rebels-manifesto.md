@@ -14,5 +14,5 @@ tags:
   - manifesto
   - rebel
 ---
-<img class="aligncenter size-full wp-image-324" title="6217623_zE4uNPdy_c.jpg.scaled500" alt="" src="http://mynameismartin.com/blog/wp-content/uploads/2011/02/6217623_zE4uNPdy_c.jpg.scaled500.jpg" width="241" height="1024" />  
+<img class="aligncenter size-full wp-image-324" title="6217623_zE4uNPdy_c.jpg.scaled500" alt="" src="/assets/img/blog-post-images/2011/02/6217623_zE4uNPdy_c.jpg.scaled500.jpg" width="241" height="1024" />  
 Via <http://allthatinspires.me/the-rebels-manifesto>

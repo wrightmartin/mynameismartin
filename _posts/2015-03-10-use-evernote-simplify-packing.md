@@ -28,7 +28,7 @@ After forgetting some key items more than once, I developed a little system to m
 
 I&#8217;ve used Evernote to make a reusable checklist of things to pack, which I&#8217;ve split into three smaller lists – Stuff I always need, Stuff I sometimes need and Stuff I need this time.
 
-<img class="aligncenter size-full wp-image-1076" src="http://mynameismartin.com/blog/wp-content/uploads/2015/03/Evernote.jpg" alt="Evernote" width="620" height="333" srcset="http://mynameismartin.com/blog/wp-content/uploads/2015/03/Evernote.jpg 620w, http://mynameismartin.com/blog/wp-content/uploads/2015/03/Evernote-300x161.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /> 
+<img class="aligncenter size-full wp-image-1076" src="/assets/img/blog-post-images/2015/03/Evernote.jpg" alt="Evernote" width="620" height="333" srcset="/assets/img/blog-post-images/2015/03/Evernote.jpg 620w, /assets/img/blog-post-images/2015/03/Evernote-300x161.jpg 300w" sizes="(max-width: 620px) 100vw, 620px" /> 
 
 ### Stuff I always need
 

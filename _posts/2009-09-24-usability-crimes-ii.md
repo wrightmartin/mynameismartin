@@ -20,7 +20,7 @@ I don&#8217;t want to be too mean to Amazon. I accept they run a massive website
 
 ### That said…
 
-<img class="size-full wp-image-112" title="amazon-screen" alt="Amazon and the badly placed 'Basket' button" src="http://mynameismartin.com/blog/wp-content/uploads/2009/09/Untitled-11.jpg" srcset="http://mynameismartin.com/blog/wp-content/uploads/2009/09/Untitled-11.jpg 374w, http://mynameismartin.com/blog/wp-content/uploads/2009/09/Untitled-11-300x113.jpg 300w" sizes="(max-width: 374px) 100vw, 374px" /> 
+<img class="size-full wp-image-112" title="amazon-screen" alt="Amazon and the badly placed 'Basket' button" src="/assets/img/blog-post-images/2009/09/Untitled-11.jpg" srcset="/assets/img/blog-post-images/2009/09/Untitled-11.jpg 374w, /assets/img/blog-post-images/2009/09/Untitled-11-300x113.jpg 300w" sizes="(max-width: 374px) 100vw, 374px" /> 
 
 When using the search function I keep clicking the &#8216;Basket&#8217; button because it&#8217;s placed so close to the end of the search bar. I&#8217;ve done it more times then I&#8217;ve hit the tiny orange &#8216;Go&#8217; button.
 

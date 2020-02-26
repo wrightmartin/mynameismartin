@@ -43,7 +43,7 @@ I designed the grid for this site using the beta of <a href="http://gridsetapp.c
 ## Typecast
 
 Choosing type is one of my favourite things to do, and in the past I&#8217;ve used a test Typekit library filled with as many fonts as I could and played with different combinations using Chrome&#8217;s web inspector, but this isn&#8217;t the best way of working so I took the opportunity to use the wonderful [Typecast](http://typecast.com/) app.  I was able to spend a good amount of time experimenting with typefaces in Typecast (something that would&#8217;ve been cumbersome using my previous method) and am happy with the choices I eventually made.  
-<img class="pull-left" alt="typecast" src="http://mynameismartin.com/blog/wp-content/uploads/2013/01/typecast.png" /> 
+<img class="pull-left" alt="typecast" src="/assets/img/blog-post-images/2013/01/typecast.png" /> 
 
 I knew wanted to move on from Skolar, which was the sole typeface I used on the last version and it had begun to grate on me. Truthfully I hadn&#8217;t done it justice, and every time I saw it used more effectively by someone else it made me wince. After much experimentation and research I settled on FF&#8217;s lovely [Meta Serif](https://typekit.com/fonts/ff-meta-serif-web-pro), accompanied by the sans-serif of the same family, which I swapped out at the last minute and replaced with [Proxima Nova](https://typekit.com/fonts/proxima-nova) after I realised how often I used it in caps, and I just love they way Proxima looks capped up.
 
@@ -53,7 +53,7 @@ I take a lot of photos, and last years&#8217; New Years&#8217; resolution was to
 
 ## Retina
 
-<img class="pull-right" alt="responsive" src="http://mynameismartin.com/blog/wp-content/uploads/2013/01/responsive.png" width="600" height="450" />  
+<img class="pull-right" alt="responsive" src="/assets/img/blog-post-images/2013/01/responsive.png" width="600" height="450" />  
 A big part of the responsive design puzzle is how we keep things nice and sharp for the ubiquitous high-density mobile phone displays and our rich friends with retina MacBook Pros. To tackle this I&#8217;m serving icons in a web font via <a href="http://symbolset.com" target="_blank">Symbolset</a>&#8216;s excellent social icon set and relying on the method described in [this post](http://blog.netvlies.nl/design-interactie/retina-revolutie-follow-up/) for photography. I&#8217;m not 100% sure either of these methods are the best way but they&#8217;re working for now, no doubt when I start to look more closely at performance optimisation I will re-examine these choices.
 
 ## Sass

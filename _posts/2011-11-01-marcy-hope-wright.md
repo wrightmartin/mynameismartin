@@ -18,6 +18,6 @@ tags:
   - life
   - Marcy
 ---
-<img class="aligncenter size-full wp-image-430" title="DSC_0763" alt="" src="http://mynameismartin.com/blog/wp-content/uploads/2011/11/DSC_0763.jpg" width="960" height="636" srcset="http://mynameismartin.com/blog/wp-content/uploads/2011/11/DSC_0763.jpg 960w, http://mynameismartin.com/blog/wp-content/uploads/2011/11/DSC_0763-300x198.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" />
+<img class="aligncenter size-full wp-image-430" title="DSC_0763" alt="" src="/assets/img/blog-post-images/2011/11/DSC_0763.jpg" width="960" height="636" srcset="/assets/img/blog-post-images/2011/11/DSC_0763.jpg 960w, /assets/img/blog-post-images/2011/11/DSC_0763-300x198.jpg 300w" sizes="(max-width: 960px) 100vw, 960px" />
 
 Born 29th October 2011. Words can&#8217;t describe the feeling of becoming a parent.

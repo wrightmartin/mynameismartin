@@ -19,7 +19,7 @@ categories:
 
 Instead of opting for a carousel or slideshow for the product photos on the homepage, they are using a draggable area to let you interact with the photos. On a touch device this is done with a swipe, but on a mouse or trackpad this turns into a pan control, much like you&#8217;ve seen on Google maps.
 
-[<img class="aligncenter size-full wp-image-934" alt="8faces-panner" src="http://mynameismartin.com/blog/wp-content/uploads/2013/11/8faces-panner.jpg" width="877" height="573" srcset="http://mynameismartin.com/blog/wp-content/uploads/2013/11/8faces-panner.jpg 877w, http://mynameismartin.com/blog/wp-content/uploads/2013/11/8faces-panner-300x196.jpg 300w" sizes="(max-width: 877px) 100vw, 877px" />](http://8faces.com)
+[<img class="aligncenter size-full wp-image-934" alt="8faces-panner" src="/assets/img/blog-post-images/2013/11/8faces-panner.jpg" width="877" height="573" srcset="/assets/img/blog-post-images/2013/11/8faces-panner.jpg 877w, /assets/img/blog-post-images/2013/11/8faces-panner-300x196.jpg 300w" sizes="(max-width: 877px) 100vw, 877px" />](http://8faces.com)
 
 Looking into it they appear to be using [jQuery.kinetic](https://github.com/davetayls/jquery.kinetic) to do this, a fairly well-maintained jQuery plugin that looks simple enough to use.
 

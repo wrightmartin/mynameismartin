@@ -22,7 +22,7 @@ tags:
 </p>
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-341 aligncenter" title="soctim-dissatisfaction" alt="Socitm's (dis)satisfaction survey" src="http://mynameismartin.com/blog/wp-content/uploads/2011/03/soctim-dissatisfaction.jpg" width="720" height="322" srcset="http://mynameismartin.com/blog/wp-content/uploads/2011/03/soctim-dissatisfaction.jpg 720w, http://mynameismartin.com/blog/wp-content/uploads/2011/03/soctim-dissatisfaction-300x134.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />
+  <img class="size-full wp-image-341 aligncenter" title="soctim-dissatisfaction" alt="Socitm's (dis)satisfaction survey" src="/assets/img/blog-post-images/2011/03/soctim-dissatisfaction.jpg" width="720" height="322" srcset="/assets/img/blog-post-images/2011/03/soctim-dissatisfaction.jpg 720w, /assets/img/blog-post-images/2011/03/soctim-dissatisfaction-300x134.jpg 300w" sizes="(max-width: 720px) 100vw, 720px" />
 </p>
 
 <p style="text-align: left;">

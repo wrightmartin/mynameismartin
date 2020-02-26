@@ -30,7 +30,7 @@ The functionality of the desk is pretty simple. You press the up button, and th
 
 The up and down controls could be a little more friendly, they require a decent push, and you have to hold them down for the duration of the motion (the buttons move with the desktop). A few times I’ve accidentally let go as it’s moving. It’s an inconvenience, but a minor one.
 
-It comes with a little plastic key that allows you to disable the movement buttons entirely, a safety feature I use often with two very small, curious children in the house.<img style="float: right; max-width: 320px; margin-left: 1em; margin-bottom: 1em;" src="http://mynameismartin.com/blog/wp-content/uploads/2015/07/desk2.jpg" alt="desk2" width="360" height="544" />
+It comes with a little plastic key that allows you to disable the movement buttons entirely, a safety feature I use often with two very small, curious children in the house.<img style="float: right; max-width: 320px; margin-left: 1em; margin-bottom: 1em;" src="/assets/img/blog-post-images/2015/07/desk2.jpg" alt="desk2" width="360" height="544" />
 
 The Bekant doesn’t have any position memory functions that I’ve seen on other standing desks, but I don’t think I need them. I raise the desk until it feels right, then I can tweak it if I need to, the same when lowering it.
 
@@ -58,7 +58,7 @@ The surface is just a veneer, so I’m going to be diligent with my coaster usag
 
 I’ve customised my desk slightly with a few add ons. Firstly I built a monitor shelf with an [oak wall shelf](http://www.ikea.com/gb/en/catalog/products/10056987/#/60054801) and six 16cm [Capita legs](http://www.ikea.com/gb/en/catalog/products/10267895/). This raises the display up to eye height when standing and frees up some real-estate under the shelf for my Wacom tablet and laptop in clamshell mode. I haven’t secured this to the desk surface, I’m relying on the weight of the display and speakers to keep it in place, which is working great so far.
 
-<img class="aligncenter size-full wp-image-1103" src="http://mynameismartin.com/blog/wp-content/uploads/2015/07/desk3.jpg" alt="desk3" width="600" height="397" srcset="http://mynameismartin.com/blog/wp-content/uploads/2015/07/desk3.jpg 600w, http://mynameismartin.com/blog/wp-content/uploads/2015/07/desk3-300x199.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /> 
+<img class="aligncenter size-full wp-image-1103" src="/assets/img/blog-post-images/2015/07/desk3.jpg" alt="desk3" width="600" height="397" srcset="/assets/img/blog-post-images/2015/07/desk3.jpg 600w, /assets/img/blog-post-images/2015/07/desk3-300x199.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /> 
 
 For some extra cable management I’ve added [a basket](http://www.ikea.com/gb/en/catalog/products/30200253/), which screws in to the underside of the desk and holds my multi-plug adaptor and prevents too many trailing cables. This means that there’s no chance of pulling cables or tangling anything when the desk is moved.
 
@@ -67,5 +67,3 @@ Finally, I added [a strip of LEDs](http://www.ikea.com/gb/en/catalog/products/00
 ## In conclusion
 
 If you’re in the market for a standing desk, the Bekant is a fine choice. Sure, it&#8217;s expensive for a desk, but it&#8217;s very reasonable for a powered adjustable standing desk. It’s well built and I expect it to last for many years. If you can forgive the slight wobble when it moves, and the lack of bells and whistles.
-
-<a title="Home office" href="https://www.flickr.com/photos/skip694/sets/72157655449275559" data-flickr-embed="true"><img src="https://farm1.staticflickr.com/446/19662595506_092434a0b1_z.jpg" alt="Home office" width="640" height="424" /></a>
