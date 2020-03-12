@@ -9,4 +9,6 @@ tags:
   Web design
   Digital strategy
 headline: All Trials
+link: http://policyaudit.alltrials.net/
 ---
+[{{page.title}}]({{page.link}})

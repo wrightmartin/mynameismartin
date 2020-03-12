@@ -1,15 +1,15 @@
 ---
-title: Simply Secure
+title: Public Square
 author: Martin Wright
 excerpt: " "
 layout: post
-permalink: work/simply-secure/
+permalink: work/public-square/
 tags:
   Branding
   Web design
   Illustration
   Digital strategy
-headline: Simply Secure
-link: https://simplysecure.org/
+headline: Public Square
+link: https://https://www.thepublicsquare.org.uk/
 ---
 [{{page.title}}]({{page.link}})

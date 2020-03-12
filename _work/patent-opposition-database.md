@@ -10,4 +10,6 @@ tags:
   Illustration
   Digital strategy
 headline: Patent Opposition Database
+link: https://www.patentoppositions.org/
 ---
+[{{page.title}}]({{page.link}})

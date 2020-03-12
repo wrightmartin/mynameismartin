@@ -7,7 +7,10 @@ permalink: work/whatdotheyknow/
 tags:
   Branding
   Web design
-  Illustration
+  UX design
+  Product strategy
   Digital strategy
 headline: WhatDoTheyKnow
+link: https://whatdotheyknow.com/
 ---
+[{{page.title}}]({{page.link}})

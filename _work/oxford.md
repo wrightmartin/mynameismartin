@@ -5,10 +5,9 @@ excerpt: " "
 layout: post
 permalink: work/oxford/
 tags:
-  Branding
   Web design
-  Illustration
-  Digital strategy
   UX Design
 headline: Oxford
+link: https://oxford.ac.uk/
 ---
+[{{page.title}}]({{page.link}})

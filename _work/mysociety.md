@@ -11,4 +11,6 @@ tags:
   Digital strategy
   UX design
 headline: mySociety
+link: https://mysociety.org/
 ---
+[{{page.title}}]({{page.link}})

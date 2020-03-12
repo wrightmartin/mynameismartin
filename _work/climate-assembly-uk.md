@@ -9,4 +9,6 @@ tags:
   Web design
   Digital strategy
 headline: Climate Assembly UK
+link: https://climateassembly.uk/
 ---
+[{{page.title}}]({{page.link}})
