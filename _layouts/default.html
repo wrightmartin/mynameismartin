@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <head>
 
-<title>Martin Wright &#8211; Web Designer from Shrewsbury</title>
+<title>{% if page.title %} {{ page.title }} - Martin Wright {% else %} Martin Wright - Web Designer from Shrewsbury {% endif %}</title>
 
 <meta charset="UTF-8" />
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -11,7 +11,8 @@
 
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Martin Wright - Web Designer from Shrewsbury -" />
+<meta property="og:title" content="{% if page.title %} {{ page.title }} - Martin Wright {% else %} Martin Wright - Web Designer from Shrewsbury {% endif %}" />
+<meta property="og:description" content="{{ page.excerpt }} - Martin Wright" />
 <meta property="og:url" content="http://mynameismartin.com" />
 <meta property="og:site_name" content="Martin Wright - Web Designer from Shrewsbury" />
 
@@ -30,6 +31,5 @@
 
   </div>
   {% include footer.html %}
-  <script type="text/javascript" src="{{ site.baseurl }}/assets/scripts/site.js" ></script>
 </body>
 </html>
