@@ -10,6 +10,6 @@ tags:
   Illustration
   Digital strategy
 headline: Public Square
-link: https://https://www.thepublicsquare.org.uk/
+link: https://www.thepublicsquare.org.uk/
 ---
 [{{page.title}}]({{page.link}})

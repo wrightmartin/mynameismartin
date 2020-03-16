@@ -8,6 +8,6 @@ tags:
   Web design
   UX Design
 headline: Oxford
-link: https://oxford.ac.uk/
+link: http://oxford.ac.uk/
 ---
 [{{page.title}}]({{page.link}})
