@@ -1,7 +1,57 @@
+//light mode colours
+$blue: #146AC5;
+$dark-blue: darken($blue, 15%);
+$purple: #7D4ABF;
+$dark-purple: darken($purple, 15%); 
+
+//dark-mode colours
+$blue--darkmode: desaturate(lighten($blue, 35%), 10%);
+$dark-blue--darkmode: desaturate(lighten($dark-blue, 35%), 10%);
+$purple--darkmode: desaturate(lighten($purple, 20%), 10%);
+$dark-purple--darkmode: desaturate(lighten($dark-purple, 20%), 10%);
 
 body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   line-height: 133%;
+  @media screen and (prefers-color-scheme: dark) {
+    background-color: #222;
+    color: #f4f4f4;
+  }
+}
+
+a {
+  color: $blue;
+
+  @media screen and (prefers-color-scheme: dark) {
+    color: $blue--darkmode;
+  }
+  &:hover {
+    color: $dark-blue;
+    @media screen and (prefers-color-scheme: dark) {
+      color: $dark-blue--darkmode;
+    }
+  }
+
+  &:active {
+
+  }
+
+  &:focus {
+
+  }
+
+  &:visited {
+    color: $purple;
+    @media screen and (prefers-color-scheme: dark) {
+      color: $purple--darkmode;
+    }
+    &:hover { 
+      color: $dark-purple;
+      @media screen and (prefers-color-scheme: dark) {
+        color: $dark-purple--darkmode;
+      }
+    }
+  }
 }
 
 .site-content {
