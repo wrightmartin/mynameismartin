@@ -6,10 +6,10 @@ layout: post
 permalink: work/whatdotheyknow/
 tags:
   Branding
-  Web design
-  UX design
-  Product strategy
-  Digital strategy
+  Web-design
+  UX-design
+  Product-strategy
+  Digital-strategy
 headline: WhatDoTheyKnow
 link: https://whatdotheyknow.com/
 ---

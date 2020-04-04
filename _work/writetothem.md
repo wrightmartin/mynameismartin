@@ -5,8 +5,8 @@ excerpt: " "
 layout: post
 permalink: work/writetothem/
 tags:
-  Web design
-  UX design
+  Web-design
+  UX-design
   Branding
 headline: WriteToThem
 link: https://writetothem.com/

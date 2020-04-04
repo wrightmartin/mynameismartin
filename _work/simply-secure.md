@@ -6,9 +6,9 @@ layout: post
 permalink: work/simply-secure/
 tags:
   Branding
-  Web design
+  Web-design
   Illustration
-  Digital strategy
+  Digital-strategy
 headline: Simply Secure
 link: https://simplysecure.org/
 ---

@@ -5,7 +5,7 @@ excerpt: " "
 layout: post
 permalink: work/attack-pack/
 tags:
-  Web design
+  Web-design
   Shopify
 headline: Attack the Pack
 link: https://attackthepack.com/

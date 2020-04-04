@@ -5,8 +5,8 @@ excerpt: " "
 layout: post
 permalink: work/theyworkforyou/
 tags:
-  Web design
-  UX design
+  Web-design
+  UX-design
 headline: TheyWorkForYou
 link: https://theyworkforyou.com/
 ---

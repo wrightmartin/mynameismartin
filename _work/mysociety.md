@@ -6,10 +6,10 @@ layout: post
 permalink: work/mySociety/
 tags:
   Branding
-  Web design
+  Web-design
   Illustration
-  Digital strategy
-  UX design
+  Digital-strategy
+  UX-design
 headline: mySociety
 link: https://mysociety.org/
 ---

@@ -6,9 +6,9 @@ layout: post
 permalink: work/patent-opposition-database/
 tags:
   Branding
-  Web design
+  Web-design
   Illustration
-  Digital strategy
+  Digital-strategy
 headline: Patent Opposition Database
 link: https://www.patentoppositions.org/
 ---

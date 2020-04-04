@@ -6,8 +6,8 @@ layout: post
 permalink: work/climate-assembly-uk/
 tags:
   Branding
-  Web design
-  Digital strategy
+  Web-design
+  Digital-strategy
 headline: Climate Assembly UK
 link: https://climateassembly.uk/
 ---

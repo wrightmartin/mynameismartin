@@ -5,8 +5,8 @@ excerpt: " "
 layout: post
 permalink: work/oxford/
 tags:
-  Web design
-  UX Design
+  Web-design
+  UX-Design
 headline: Oxford
 link: http://oxford.ac.uk/
 ---

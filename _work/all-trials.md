@@ -6,8 +6,8 @@ layout: post
 permalink: work/all-trials/
 tags:
   Branding
-  Web design
-  Digital strategy
+  Web-design
+  Digital-strategy
 headline: All Trials
 link: http://policyaudit.alltrials.net/
 ---

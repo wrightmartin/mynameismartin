@@ -8,7 +8,7 @@ tags:
   Branding
   Web design
   Illustration
-  Digital strategy
+  Digital-strategy
 headline: Public Square
 link: https://www.thepublicsquare.org.uk/
 ---
