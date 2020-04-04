@@ -1,3 +1,5 @@
+@import 'reset';
+
 //light mode colours
 $blue: #146AC5;
 $dark-blue: darken($blue, 15%);
@@ -70,3 +72,15 @@ a {
   grid-column: full;
 }
 
+header[role=banner] {
+  margin-bottom: 2rem;
+}
+
+.post-meta {
+  margin-top: 1rem;
+}
+
+footer {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
