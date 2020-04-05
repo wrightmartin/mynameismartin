@@ -4,13 +4,15 @@ title: "My work"
 permalink: "/work/"
 ---
 
-<ul>
+<ul class="work__list">
   {% for work in site.work %}
     <li>
       <a href="{{ work.link }}">{{ work.title }}</a>
+      <span class="work__tags">
       {% for tag in work.tags %}
         {{ tag }}{% if forloop.last == false %},{% endif %}
       {% endfor %}
+      </span>
     </li>
   {% endfor %}
 </ul>
