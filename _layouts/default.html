@@ -12,7 +12,7 @@
 <meta property="og:locale" content="en_GB" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{% if page.title %} {{ page.title }} - Martin Wright {% else %} Martin Wright - Web Designer from Shrewsbury {% endif %}" />
-<meta property="og:description" content="{{ page.excerpt }} - Martin Wright" />
+<meta property="og:description" content="{{ page.excerpt | strip_html }} - Martin Wright" />
 <meta property="og:url" content="http://mynameismartin.com" />
 <meta property="og:site_name" content="Martin Wright - Web Designer from Shrewsbury" />
 
