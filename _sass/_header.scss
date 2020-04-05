@@ -1,0 +1,31 @@
+header[role=banner] {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.header-bar {
+  display: grid;
+  grid-template-columns: minmax(64px, 128px) auto;
+}
+
+.home-link {
+  width: 100%;
+}
+
+.primary-navigation {
+  align-self: center;
+}
+
+.primary-navigation__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;  
+
+}
+
+.message--redesign {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #f4f4f4;
+}
