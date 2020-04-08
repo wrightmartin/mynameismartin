@@ -6,22 +6,25 @@ bodyclass: home
       <i>—</i>
       <p>I make cool stuff for nice people</p>
 
-
-  <h2><a href="work/">Latest work</a></h2>
-    <ul >
-      {% for work in site.work limit:2 %}
+<div class="home__work">
+  <h2 class="quaternary-heading"><a href="work/">Latest work</a></h2>
+  <ul class="home__work__list">
+    {% for work in site.work limit:2 %}
     <li>
-      <h3><a href="{{ work.permalink }}" title="Permalink to {{ work.title }}" rel="bookmark">{{ work.title }}</a></h3>
+      <h3 class="quinternary-heading"><a href="{{ work.permalink }}" title="Permalink to {{ work.title }}" rel="bookmark">{{ work.title }}</a></h3>
       <p>{{ work.excerpt }}</p>
     </li>
     {% endfor %}
-    </ul>
-    <h2><a href="blog/">Recent posts</a></h2>
-    <ol>
+  </ul>
+</div>
+<div class="home__blog">
+  <h2 class="quaternary-heading"><a href="blog/">Recent posts</a></h2>
+  <ol class="home__blog__list">
     {% for post in site.posts limit:2 %}
     <li>
-      <h3><a href="{{ post.permalink }}" title="Permalink to {{ post.title }}" rel="bookmark">{{ post.title }}</a></h3>
+      <h3 class="quinternary-heading"><a href="{{ post.permalink }}" title="Permalink to {{ post.title }}" rel="bookmark">{{ post.title }}</a></h3>
       <p>{{ post.excerpt }}</p>
     </li>
     {% endfor %}
-    </ol>
+  </ol>
+</div>
