@@ -21,8 +21,12 @@ header[role=banner] {
   flex-wrap: wrap;
   justify-content: space-evenly;
   align-items: center;  
-
+  li {
+    min-width: 5em;
+    text-align: center;
+  }
 }
+
 
 .message--redesign {
   margin-top: 1rem;
