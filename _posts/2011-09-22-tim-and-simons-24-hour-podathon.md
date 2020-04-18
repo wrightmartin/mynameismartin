@@ -1,6 +1,6 @@
 ---
 id: 396
-title: 'Tim and Simon&#8217;s 24 hour Podathon'
+title: 'Tim and Simon’s 24 hour Podathon'
 date: 2011-09-22T17:54:08+00:00
 author: Martin Wright
 excerpt: Local comedy podcast duo Tim and Simon announced a pretty cool project today; on the 27th of September they will be recording and releasing 24 podcasts in 24 hours all in the name of charity.

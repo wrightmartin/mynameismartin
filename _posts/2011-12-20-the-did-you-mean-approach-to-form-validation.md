@@ -1,6 +1,6 @@
 ---
 id: 435
-title: 'The &#8216;Did you mean&#8230;&#8217; approach to form validation'
+title: 'A softer approach to form validation'
 date: 2011-12-20T23:40:02+00:00
 author: Martin Wright
 excerpt: "We're all familiar with Google's 'did you mean...' feature when you accidentally misspell a search term; could the same approach work for some gentle validation on data inputs?"

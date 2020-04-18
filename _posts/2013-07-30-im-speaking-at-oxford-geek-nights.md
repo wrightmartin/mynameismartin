@@ -1,6 +1,6 @@
 ---
 id: 831
-title: 'I&#8217;m speaking at Oxford Geek Nights'
+title: 'I’m speaking at Oxford Geek Nights'
 date: 2013-07-30T16:32:50+00:00
 author: Martin Wright
 excerpt: "Next Wednesday (7th August 2013) I'll be talking at Oxford Geek Nights. My microslot talk is called 'Designing without data' and yes, I started with the title and worked backwards."

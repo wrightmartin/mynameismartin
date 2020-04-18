@@ -1,6 +1,6 @@
 ---
 id: 836
-title: 'Iteration doesn&#8217;t mean getting better every time'
+title: 'Iteration doesn’t mean getting better every time'
 date: 2013-08-05T16:56:46+00:00
 author: Martin Wright
 excerpt: "Iterating on something, whether it be a product, a design or a process doesn't mean getting better every time"

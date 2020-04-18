@@ -1,6 +1,6 @@
 ---
 id: 1099
-title: 'A review of Ikea&#8217;s Bekant Standing Desk'
+title: 'A review of Ikea’s Bekant Standing Desk'
 date: 2015-07-28T20:50:59+00:00
 author: Martin Wright
 excerpt: For the money, the Ikea Bekant standing desk is a great choice for any workspace. It looks smart, the mechanics feel right and the range of heights is massive.

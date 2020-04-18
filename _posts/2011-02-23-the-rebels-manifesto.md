@@ -1,6 +1,6 @@
 ---
 id: 323
-title: 'The Rebel&#8217;s Manifesto'
+title: 'The Rebel’s Manifesto'
 date: 2011-02-23T23:50:35+00:00
 author: Martin Wright
 layout: post

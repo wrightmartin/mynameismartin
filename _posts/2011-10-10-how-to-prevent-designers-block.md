@@ -1,6 +1,6 @@
 ---
 id: 418
-title: 'How to prevent designer&#8217;s block'
+title: 'How to prevent designer’s block'
 date: 2011-10-10T10:16:23+00:00
 author: Martin Wright
 excerpt: 'As creatives it can sometimes feel like our output depends entirely on our mood. We dread going through spells where work can feel like an uphill battle. The truth is these dry spells are inevitable and it’s important that we have the skills and perseverance to get through them. '

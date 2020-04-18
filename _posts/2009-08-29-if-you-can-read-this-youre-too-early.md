@@ -1,6 +1,6 @@
 ---
 id: 23
-title: 'If you can read this, you&#8217;re too early'
+title: 'If you can read this, you’re too early'
 date: 2009-08-29T10:22:14+00:00
 author: Martin Wright
 layout: post
