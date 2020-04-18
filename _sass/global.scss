@@ -103,6 +103,24 @@ footer {
   margin-bottom: 1rem;
 }
 
+hr {
+  display: block;
+  height: 15px;
+  border: 0;
+  background-color: transparent;
+  background-image: url('../img/hr.png');
+  background-repeat: no-repeat;
+  background-size: 75px 15px;
+  background-position: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  .post-content & {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+  }
+}
+
+
 @import 'header';
 @import 'home';
 @import 'work';
