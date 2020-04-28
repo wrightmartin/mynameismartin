@@ -1,6 +1,6 @@
 ---
 id: 390
-title: 'Responsive videos &#8211; problem solved'
+title: 'Responsive videos – problem solved'
 date: 2011-09-06T22:35:01+00:00
 author: Martin Wright
 excerpt: 'Chris Coyier and Paravel have joined forces and written jQuery plugin called FitVids to solve the biggest challenge with responsive design: embedded videos.'
