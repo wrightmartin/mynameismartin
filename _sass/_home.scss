@@ -1,6 +1,9 @@
 .home__work { }
 
-.home__work-list {}
+.home__work-list {
+  list-style: none outside none;
+  padding: 0;
+}
 
 .home__blog {
 
@@ -8,6 +11,8 @@
 
 .home__work__list,
 .home__blog__list {
+  list-style: none outside none;
+  padding: 0;
   li {
     margin-bottom: 1rem;
   }

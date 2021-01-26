@@ -13,15 +13,15 @@ I&#8217;ve had various roles in the web industry, and have had the pleasure of w
 I was born in Reading but spent my teenage years in Perth, Western Australia before moving back to the UK and settling in Shrewsbury.
 I dabbled in web design during college, throwing together websites for bands which gave me a taste for the immediacy of making things on the internet. 
 
-I took Computer Science at University, where I became interested in human-computer interaction and user interface design. My web skills helped me develop this interest, and helped me write my dissertation computer aided learning and video game reward systems.
+I took Computer Science at University, where I became interested in human-computer interaction and user interface design. My web skills helped me develop this interest, and I wrote my dissertation on computer aided learning and reward systems.
 
-After university I talked my way into a web development job for my local council, where I learnt the benefit of rapid prototyping in a &#8216;demo or die&#8217; culture. After being promoted to Web Team Leader I pushed the department to work in a more open and transparent way, starting a <a href="http://shropshire.gov.uk/projectwip">team blog</a> and a public prototype of a <a href="http://new.shropshire.gov.uk">new Shropshire.gov.uk</a>. Happily the team have continued to develop this work and I follow it closely.
+After university I was Web Team Leader for my local council, where I learnt the benefit of rapid prototyping in a &#8216;demo or die&#8217; culture. During my time there I pushed the council to work in the open, starting a web development blog and a launching a public beta of a new Shropshire.gov.uk.
 
-The work my team and I did at Shropshire was well received in the industry and on the back of this I landed a job at <a href="http://torchbox.com">Torchbox</a>, where I worked for a wide range of clients on some challenging and exciting projects.
+The work my team and I did at Shropshire was well received in the industry and on the back of this I landed a job at <a href="http://torchbox.com">Torchbox</a>, where I worked for a wide range of clients in the charity and education sectors.
 
-Now I work for <a href="http://mysociety.org">mySociety</a>, where I design in-house products and projects for citizens and democratic groups around the world.
+Since 2013 I have worked for <a href="http://mysociety.org">mySociety</a>, where I research and design web products and projects for citizens, governments, and similar groups around the world. I find this work immensely satisfying.
 
-I live in Shrewsbury with my gorgeous wife and two beautiful daughters. I like punk-rock, video games and the films of Wes Anderson. In my free time you can find me running, up a mountain on my bike, or watching Star Wars with the kids. Again.
+I live in Shrewsbury with my wife and two daughters. I like punk-rock, video games and the films of Wes Anderson. In my free time you can find me running, up a mountain on my bike, or watching Star Wars with the kids. Again.
 
 
 <a href="http://twitter.com/wrightmartin" ><i>twitter</i></a>
