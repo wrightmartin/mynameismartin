@@ -27,6 +27,7 @@ github: [metadata]
 collections:
   work:
     output: true
+    permalink: /:collection/:name
 
 # Build settings
 markdown: kramdown
@@ -38,8 +39,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-collections:
-  - work
 
 paginate_path: "/blog/page-:num/"
 paginate: 6
