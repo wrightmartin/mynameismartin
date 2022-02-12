@@ -9,7 +9,8 @@ bodyclass: home
 <div class="home__work">
   <h2 class="quarternary-heading"><a href="work/">Latest work</a></h2>
   <ul class="home__work__list">
-    {% for work in site.work limit:2 %}
+    {% assign work_loop = site.work | where:'homepage', 'true' %}
+    {% for work in work_loop limit:2 %}
     <li>
       <h3 class="quinternary-heading"><a href="{{ work.permalink }}" title="Permalink to {{ work.title }}" rel="bookmark">{{ work.title }}</a></h3>
       <p>{{ work.excerpt }}</p>

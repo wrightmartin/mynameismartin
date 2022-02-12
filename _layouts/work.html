@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>{{ page.headline }}</h1>
+<ul>
+{% for tag in page.tags %}
+<li>{{ tag }}</li>
+{% endfor %}
+</ul>
+
+<p>{{ page.excerpt }}</p>
+
+{{ content }}
+
+<p>View the site <a href="{{page.link}}">{{page.title}}</a></p>

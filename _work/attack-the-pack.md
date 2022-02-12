@@ -2,7 +2,7 @@
 title: Attack the Pack
 author: Martin Wright
 excerpt: " "
-layout: post
+layout: work
 permalink: work/attack-pack/
 tags:
   Web-design
@@ -10,4 +10,4 @@ tags:
 headline: Attack the Pack
 link: https://attackthepack.com/
 ---
-[{{page.title}}]({{page.link}})
+Design and Shopify integration for a friend's card game
