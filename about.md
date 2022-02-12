@@ -6,7 +6,9 @@ title: About me
 ---
 
 Hello, I&#8217;m Martin Wright, a friendly designer based in Shrewsbury in the UK.
-I&#8217;m a web designer with over ten years&#8217; experience building websites for varied clients and industries. I make websites that work well and look beautiful on screens large and small.
+I&#8217;m a web designer with over fifteen years&#8217; experience experience designing websites and services for varied clients including central and local government, healthcare, and the charity sector. I’m a dedicated and experienced team lead, people manager, design practitioner, and lifelong learner. I’m passionate about working with people to deliver the very best user-centred design work.
+
+<hr>
 
 I&#8217;ve had various roles in the web industry, and have had the pleasure of working with some diverse clients like the University of Oxford, the WWF and the RNIB. I believe the web should be used for social good and that&#8217;s the kind of work I like to do.
 
@@ -19,13 +21,14 @@ After university I was Web Team Leader for my local council, where I learnt the 
 
 The work my team and I did at Shropshire was well received in the industry and on the back of this I landed a job at <a href="http://torchbox.com">Torchbox</a>, where I worked for a wide range of clients in the charity and education sectors.
 
-Since 2013 I have worked for <a href="http://mysociety.org">mySociety</a>, where I research and design web products and projects for citizens, governments, and similar groups around the world. I find this work immensely satisfying.
+In 2013 I joined the team at <a href="http://mysociety.org">mySociety</a>, where I designed web products and projects for citizens, governments, and similar groups around the world. Work I found immensely satisfying.
+
+Building on this, since 2021 I've worked for <a href="http://tpximpact.com">TPXimpact</a> (formerly Futuregov) as a design lead, working on Central Government user-centred design projects
 
 I live in Shrewsbury with my wife and two daughters. I like punk-rock, video games and the films of Wes Anderson. In my free time you can find me running, up a mountain on my bike, or watching Star Wars with the kids. Again.
 
 
 <a href="http://twitter.com/wrightmartin" ><i>twitter</i></a>
 <a href="http://dribbble.com/wrightmartin"><i>dribbble</i></a>
-<a href="http://www.last.fm/user/Johnny-5"><i>lastfm</i></a>
 <a href="http://instagram.com/mynameismartin/"><i>instagram</i></a>
     
