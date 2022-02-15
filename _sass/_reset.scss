@@ -44,7 +44,8 @@ img {
 
 /* Natural flow and rhythm in articles by default */
 article,
-.post-content {
+.post-content,
+.content-grid {
   > * + * {
     margin-top: 1em;
   }

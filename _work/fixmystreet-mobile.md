@@ -1,7 +1,7 @@
 ---
 title: FixMyStreet Mobile
 author: Martin Wright
-excerpt: "When FixMyStreet was first envisioned, smartphones were a pipe dream, and even stable, fast mobile internet was years away,  so it's easy to imagine how as the site aged it became a slightly 'rough around the edges' experience for mobile users."
+excerpt: "When FixMyStreet was first envisioned, smartphones were a pipe dream, and even stable, fast mobile internet was years away, so it's easy to imagine how as the site aged it became a slightly 'rough around the edges' experience for mobile users."
 layout: work
 permalink: work/fms-mobile/
 tags:

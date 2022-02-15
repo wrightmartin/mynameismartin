@@ -1,16 +1,34 @@
-.work__list {
-  margin-top: 1em;
-  list-style: none outside none;
-  padding: 0;
+body {
+  font-family: 'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  line-height: 1.33;
 }
 
-.work__tags {
-  display: block;
-  color: #666;
-  margin-top: 0.25rem;
-  margin-bottom: 1rem;
-  font-size: 0.833333333rem;
-  &::before {
-    content: '#';
-  }
+h1, h2, h3, h4, h5 {
+  line-height: 1.15;
+}
+
+.biggest-heading {
+  font-size: 4.5625rem;
+}
+
+h1,
+.primary-heading {
+  font-size: 2.441rem;
+}
+
+h2, .secondary-heading {font-size: 1.953rem;}
+
+h3, .tertiary-heading {font-size: 1.563rem;}
+
+h4, .quarternary-heading {font-size: 1.25rem;}
+
+h5, .quinternary-heading {font-size: 1rem;}
+
+.lede {
+  font-size: 1.4375em;
+}
+
+.site-content > p,
+.post-content {
+  max-width: 29em;
 }

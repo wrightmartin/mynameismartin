@@ -7,11 +7,13 @@ permalink: "/work/"
   {% for work in site.work %}
     <li>
       <a href="{{ work.url }}">{{ work.title }}</a>
-      <span class="work__tags">
+      
       {% for tag in work.tags %}
-        {{ tag }}{% if forloop.last == false %},{% endif %}
+        <span class="work__tags">
+        {{ tag }}
+        </span>
       {% endfor %}
-      </span>
+     
     </li>
   {% endfor %}
 </ul>

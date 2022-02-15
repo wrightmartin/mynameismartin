@@ -1,15 +1,24 @@
 ---
 layout: default
 ---
-<h1>{{ page.headline }}</h1>
-<ul>
-{% for tag in page.tags %}
-<li>{{ tag }}</li>
-{% endfor %}
-</ul>
+<h1 class="biggest-heading">{{ page.headline }}</h1>
+{% if page.tags %}
+  <ul class="hoz-list">
+  {% for tag in page.tags %}
+    <li class="work__tags">{{ tag }}</li>
+  {% endfor %}
+  </ul>
+{% endif %}
 
-<p>{{ page.excerpt }}</p>
+<p class="work__excerpt lede">{{ page.excerpt }}</p>
+<dl class="work__detail-list ">
+  {% if page.role %}<dt>Role:</dt> <dd>{{ page.role }}</dd>{% endif %}
+  {% if page.client %}<dt>Client:</dt> <dd>{{ page.client }}</dd>{% endif %}
+  {% if page.work-date %}<dt>Date:</dt> <dd>{{ page.work-date }}</dd>{% endif %}
+  {% if page.link %}<dt>Visit:</dt> <dd><a href="{{page.link}}">{{ page.title }}</a></dd>{% endif %}
+</dl>
+
+<hr class="work-hr" />
+
 
 {{ content }}
-
-<p>View the site <a href="{{page.link}}">{{page.title}}</a></p>

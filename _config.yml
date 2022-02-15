@@ -42,3 +42,8 @@ exclude:
 
 paginate_path: "/blog/page-:num/"
 paginate: 6
+
+kramdown:
+  parse_block_html: true 
+  parse_span_html: true
+
