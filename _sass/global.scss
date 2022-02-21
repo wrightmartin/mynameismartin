@@ -136,25 +136,50 @@ footer {
   margin-top: 5em;
 }
 
+.mt-xl {
+  margin-top: 8em;
+}
+
 @media (min-width: 45em) {
   .work__excerpt {
     grid-column: col-start / span 7;
   }
+
   .work__detail-list {
     grid-column: col-start 10 / span 3;
   }
+
   .work__content-grid {
     grid-column: col-start / span 6;
   }
+
   .work__content-grid--end {
     grid-column: col-start 7 / span 6;
   }
+
+  .work__content-grid--end--sm {
+    grid-column:  col-start 6 / span 5;
+  }
+
+
+ 
+
   .span-5--start {
     grid-column: col-start / span 5;
   }
+
   .span-5 {
     grid-column: col-start 8 / span 5;
   }
+
+  .span-3 {
+    grid-column: col-start 8 / span 3;
+  }
+
+  .span-3--start {
+    grid-column: col-start 2 / span 3;
+  }
+
   .span-all {
     grid-column: col-start / col-end;
   }

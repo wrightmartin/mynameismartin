@@ -7,7 +7,9 @@ title: About me
 
 <p class="lede">Hello, I&#8217;m Martin Wright, a friendly designer based in Shrewsbury in the UK.</p>
 
-I&#8217;m a web designer with over fifteen years&#8217; experience experience designing websites and services for varied clients including central and local government, healthcare, and the charity sector. I’m a dedicated and experienced team lead, people manager, design practitioner, and lifelong learner. I’m passionate about working with people to deliver the very best user-centred design work.
+I&#8217;m a web designer with over fifteen years&#8217; experience experience designing websites and services for varied clients including central and local government, healthcare, and the charity sector. 
+
+I’m a dedicated and experienced team lead, people manager, design practitioner, and lifelong learner. I’m passionate about working with people to deliver the very best user-centred design work.
 
 <hr class="decorative-hr">
 
